@@ -2,4 +2,4 @@
 An FSM-based cheating e-dice
 
 
-![Alt text](Pcitures/FSM "Title")
+![FSM Illustration](Pcitures/FSM.jpeg "Title")
