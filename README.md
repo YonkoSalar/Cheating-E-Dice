@@ -2,4 +2,4 @@
 An FSM-based cheating e-dice
 
 
-![FSM Illustration](Pictures/FSM.jpeg "Title")
+![FSM Illustration](Pictures/FSM.jpeg = 250x)
